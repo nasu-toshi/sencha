@@ -1,0 +1,12 @@
+{items: [
+{id:'1', name:'北海道札幌市', latitude:'43.068625', longitude:'141.350801'},
+{id:'2', name:'宮城県仙台市', latitude:'38.260297', longitude:'140.882049'},
+{id:'3', name:'埼玉県さいたま市', latitude:'35.906295', longitude:'139.623999'},
+{id:'4', name:'千葉県千葉市', latitude:'35.612858', longitude:'140.11434'},
+{id:'5', name:'神奈川県横浜市', latitude:'35.466188', longitude:'139.622715'},
+{id:'6', name:'新潟県新潟市', latitude:'37.912027', longitude:'139.061883'},
+{id:'7', name:'静岡県静岡市', latitude:'34.97171', longitude:'138.38884'},
+{id:'8', name:'愛知県名古屋市', latitude:'35.170694', longitude:'136.881637'},
+{id:'9', name:'京都府京都市', latitude:'34.985458', longitude:'135.757755'},
+{id:'10', name:'大阪府大阪市', latitude:'34.701909', longitude:'135.494977'}
+]}
